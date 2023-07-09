@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "362885147432",
+    "project_id": "able-cab",
+    "storage_bucket": "able-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362885147432:android:77336d7e941dbb1e343e1d",
+        "android_client_info": {
+          "package_name": "com.example.ablecab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362885147432-snu7ca4237apme5rt5ocadurm0l19js7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZoiwhy-2WKNQvSb1o5wkC8xJE5JK_Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362885147432-snu7ca4237apme5rt5ocadurm0l19js7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362885147432-8drk6riedu3k1g1583ivcj9t65tmhrj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ablecab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
